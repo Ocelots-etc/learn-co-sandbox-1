@@ -1,7 +1,7 @@
-class Price 
+# class Price 
   
- def self.price_search
+# def self.price_search
    
- end
+# end
   
-end
+# end

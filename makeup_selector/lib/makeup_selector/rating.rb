@@ -1,10 +1,10 @@
-class Rating
+# class Rating
   
- def self.rating_search
+# def self.rating_search
    
- end
+# end
  
  
   
   
-end
+# end
